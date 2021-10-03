@@ -1,3 +1,3 @@
 ## dnslookup
 > __$__ dnslookup by hacker target <br>
-'coded by agung'
+* [profile](https://github.com/gitcomeon8) *
